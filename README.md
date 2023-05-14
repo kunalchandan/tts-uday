@@ -1,4 +1,5 @@
 # Text to Speech
+Instructions
 ```bash
 pip install virtualenv
 
@@ -19,3 +20,5 @@ ffmpeg -f concat -i list1.txt -c copy Medical_chemistry_full.mp3
 ls -1 Medical_biology_p* | awk '$0="file \""$0"\""' | sed "s/\"/'/g" > list2.txt
 ffmpeg -f concat -i list2.txt -c copy Medical_biology_full.mp3
 ```
+
+I don't own the IP for the documents `Medical biology.txt` and `Medical chemistry.txt`

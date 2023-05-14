@@ -1,0 +1,1530 @@
+﻿Medical chemistry 
+1. General structure of atoms. Chemical elements of the living organisms, their atomic orbitals and electron configurations.
+ A visualised diagram of the atom:   
+
+
+An atom is the smallest unit of matter that retains all of the chemical properties of an element. 
+An atom is composed of two regions: the nucleus, which is in the center of the atom and contains protons and neutrons, and the outermost region of the atom which holds its electrons in orbit around the nucleus.
+Atoms contain protons, electrons, and neutrons, among other subatomic particles. The only exception is hydrogen (H), which is made of one proton and one electron with no neutrons.
+
+
+
+
+Electrons: negatively charged 
+Neutrons: neutral, uncharged 
+Protons: positively charged NOTE: Nucleus (comprised of both neutrons and protons)
+
+
+The number of neutrons in an atom contributes significantly to its mass, but not to its charge. 
+
+
+Electrons are much smaller in mass than protons, weighing only 9.11 × 10–28 grams, or about 1/1800 of an atomic mass unit. Hence, they do not contribute much to an element’s overall atomic mass. Therefore, when considering atomic mass, it is customary to ignore the mass of any electrons and calculate the atom’s mass based on the number of protons and neutrons alone.
+Electrons do contribute greatly to the atom’s charge, as each electron has a negative charge equal to the positive charge of a proton. In uncharged, neutral atoms, the number of electrons orbiting the nucleus is equal to the number of protons inside the nucleus. In these atoms, the positive and negative charges cancel each other out, leading to an atom with no net charge.
+
+
+Subatomic particles 
+The masses of subatomic particles are very tiny. Instead of writing their actual masses in kilograms, we often use their relative masses. The relative mass of a proton is 1, and a particle with a relative mass smaller than 1 has less mass. 
+  
+
+
+
+The mass of an electron is very small compared to a proton or a neutron. Since the nucleus contains protons and neutrons, most of the mass of an atom is concentrated in its nucleus. Protons and electrons have electrical charges that are equal and opposite.
+
+
+Atomic orbitals are the basic building blocks of the atomic orbital model (also known as the electron cloud or wave mechanics model), a modern framework for visualizing the submicroscopic behavior of electrons in matter.
+Orbits (electron): the path of an electron around the nucleus of an atom 
+Orbitals: the wave function of an electron in an atom indicating the electron's probable location.
+
+
+Orbits are associated with the Bohr model and orbitals are associated with the Schrodinger equation
+
+
+  
+
+Electrons fill orbitals in a way to minimize the energy of the atom. Therefore, the electrons in an atom fill the principal energy levels in order of increasing energy (the electrons are getting farther from the nucleus). The order of levels filled looks like this: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, and 7p.
+
+
+The bohr model states that under standard conditions, atoms fill the inner shells first, often resulting in a variable number of electrons in the outermost shell. The innermost shell has a maximum of two electrons but the next two electron shells can each have a maximum of eight electrons. This is known as the octet rule, which states, with the exception of the innermost shell, that atoms are more stable energetically when they have eight electrons in their valence shell, the outermost electron shell.
+
+
+  
+
+
+
+
+
+
+
+
+
+Another way is to make a table like the one below and use vertical lines to determine which subshells correspond  with each other.
+  
+
+The Pauli exclusion principle: States that no two electrons can have the same four quantum numbers. The first three may be the same, but the fourth quantum number must be different. A single orbital can hold a maximum of two electrons, which must have opposing spins; otherwise they would have the same four quantum numbers, which is forbidden. Each subshell has double the electrons per orbital. The s subshell has 1 orbital that can hold up to 2 electrons, the p subshell has 3 orbitals that can hold up to 6 electrons, the d subshell has 5 orbitals that hold up to 10 electrons, and the f subshell has 7 orbitals with 14 electrons.
+
+
+Hund’s rule: When assigning electrons in orbitals, each electron will first fill all the orbitals with similar energy (also referred to as degenerate) before pairing with another electron in a half-filled orbital. Atoms at ground states tend to have as many unpaired electrons as possible. When visualizing this processes, think about how electrons are exhibiting the same behavior as the same poles on a magnet would if they came into contact; as the negatively charged electrons fill orbitals they first try to get as far as possible from each other before having to pair up.
+
+
+2. Primary chemical bonds and secondary interactions. Covalent bonds in organic compounds. 
+Elements interact with each other constantly in the natural world. There are only a few elite ones who are noble enough to remain to themselves. But in general every element interacts with at least another, giving rise to a variety of structures, phenomena and compounds we see every day. These interactions take place in the most basic form as bond formation.
+
+
+There are various kinds of bonds but they are all grouped under two main categories, primary and secondary bonds. Primary bonds are those which are strong in nature. They have electronic attractions and repulsions just like secondary bonds but in equilibrium they are stronger than the later. They are broadly classified into three types: Ionic bonds, Covalent bonds and Metallic bonds.
+
+
+Primary bonds involve sharing or donating electrons between atoms to form a more stable electron configuration. 
+All elements except inert gases have an unfilled valence shell. For example, sodium has a nucleus containing 11 protons and orbiting shells containing 11 electrons. The outer shell has one valence electron.
+Primary bonding occurs when electrons are lost or gained so that the outer shell is filled. For example, if a sodium atom loses its valence electron, it is left with a full outer shell of electrons and if a chlorine atom, which has only seven electrons in the outer shell, gains an electron, its outer shell is then full. 
+
+
+
+
+There are three main types of primary atomic bonds - ionic bonds, covalent bonds and metallic bonds. 
+They differ in their structure and properties.
+An ionic bond can form between two elements when one has a small number of electrons in the valence shell (metal) and one has an almost full outer shell (non-metal). Atoms are more likely to accept electrons if they have an almost full outer shell (elements on the right of the periodic table).
+
+
+It is the attraction between two oppositely charged ions that forms the bond. This bond is non-directional, leading to freedom in the way they pack… BUT ions of opposite sign must surround each other to retain the attraction between ions.
+
+
+Ionic bonds are strong and stiff. As a result they generally give a material with:
+* High strength
+* High elastic modulus
+* High melting point
+* Poor electrical conductivity
+Some examples of ionic bonding are:
+* Magnesia (MgO)
+* Alumina (Al2O3)
+* Cement
+
+
+
+
+
+
+Covalent bonds consist of pairs of electrons shared by two atoms, and bind the atoms in a fixed orientation. Relatively high energies are required to break them (50 - 200 kcal/mol). Whether two atoms can form a covalent bond depends upon their electronegativity i.e. the power of an atom in a molecule to attract electrons to itself.
+
+
+If two atoms differ considerably in their electronegativity - as sodium and chloride do - then one of the atoms will lose its electron to the other atom. This results in a positively charged ion (cation) and negatively charged ion (anion). The bond between these two ions is called an ionic bond. 
+
+
+  
+
+Although we defined covalent bonding as electron sharing, the electrons in a covalent bond are not always shared equally by the two bonded atoms. Unless the bond connects two atoms of the same element, there will always be one atom that attracts the electrons in the bond more strongly than the other atom does
+
+
+When such an imbalance occurs, there is a resulting buildup of some negative charge (called a partial negative charge and designated δ−) on one side of the bond and some positive charge (designated δ+) on the other side of the bond.
+
+
+A covalent bond that has an unequal sharing of electrons is called a polar covalent bond. A covalent bond that has an equal sharing of electrons is called a nonpolar covalent bond.
+  
+
+
+
+When a molecule’s bonds are polar, the molecule as a whole can display an uneven distribution of charge, depending on how the individual bonds are oriented. For example, the orientation of the two O–H bonds in a water molecule is bent: one end of the molecule has a partial positive charge, and the other end has a partial negative charge.
+
+
+Coordinate bonding
+A covalent bond is formed by two atoms sharing a pair of electrons. The atoms are held together because the electron pair is attracted by both of the nuclei.
+In the formation of a simple covalent bond, each atom supplies one electron to the bond - but that doesn't have to be the case. A co-ordinate bond (also called a dative covalent bond) is a covalent bond (a shared pair of electrons) in which both electrons come from the same atom.
+
+
+
+
+
+
+  
+
+
+
+Metallic bonds, as the name suggests, are bonds found only in metals. Metals are elements of the electropositive nature, thus it is very easy for the constituent atoms to lose their outer shell electrons and form ions. In metals, these positively charged ions are held together in a sea of negatively charged free electrons. These free electrons are responsible for the high electric and thermal conductivities of metals.
+
+
+
+
+Secondary bonds are bonds of a different kind to the primary ones. They are weaker in nature and are broadly classified as Van der Waal's forces and hydrogen bonds. These bonds are due to atomic or molecular dipoles, both permanent and temporary.
+Van der Waal's forces are of two types. The first type is as a result of electrostatic attraction between two permanent dipoles. Permanent dipoles are formed in asymmetric molecules where there are permanent positive and negative regions due to difference in electronegativities of the constituent elements. For example, water molecule is made of one oxygen and two hydrogen atoms. Since each hydrogen requires one electron and oxygen requires two electrons to complete their respective noble gas configurations, thus when these atoms approach each other they share a pair of electrons between each hydrogen and the oxygen atom. This way all three achieve stability through the bonds formed. But since oxygen is a highly electronegative atom, therefore the shared electron cloud is attracted more towards it than the hydrogen atoms, giving rise to a permanent dipole. When this water molecule approaches another water molecule, a partial bond is formed between the partially positive hydrogen atom of one molecule and the partially negative oxygen of another. This partial bond is due to an electric dipole and thus is called a Van der Waal's bond.
+The second type of Van der Waal's bond is formed due to temporary dipoles. A temporary dipole is formed in a symmetric molecule but which has fluctuations of charges giving rise to partial dipole moments for only a few moments. This can also be seen in atoms of inert gases. For instance, a molecule of methane has one carbon atom and four hydrogen atoms joined together by single covalent bonds between the carbon and the hydrogen atoms. Methane is a symmetric molecule but when it is solidified, the bonds between the molecules are of weak Van der Waal's forces and thus such a solid cannot exist for a long time without tremendously cared for laboratory conditions.
+ Hydrogen Bonding between two Water Molecules 
+
+Hydrogen Bonding between two Water Molecules
+
+
+Hydrogen bonds are relatively stronger than Van der Waal's forces but compared to primary bonds they are weak. Bonds between hydrogen atom and atoms of the most electronegative elements (N, O, F) are called hydrogen bonds. It is based on the fact that hydrogen being the smallest atom provides very little repulsion when interacting with highly electronegative atoms in other molecules and thus succeeds in forming partial bonds with them. This makes hydrogen bonds strong but weaker compared to primary bonds since the interactions here are permanent dipole interactions. Hydrogen bonds are of two types- intermolecular and intramolecular. In intermolecular hydrogen bonds, the bonds are between hydrogen atom of one molecule and electronegative atom of another. For example, o-nitrophenol. In intramolecular hydrogen bonds, the bonds are between hydrogen atom and electronegative atom of the same molecule but such that they do not have any covalent interactions. For example, p-nitrophenol.
+
+
+3. Physical and chemical properties of water (intermolecular forces, self-ionization, etc.). 
+Water has two hydrogen atoms around a central oxygen atom. The central oxygen atom also has two lone pairs of electrons. This gives water a bent (or angular) shape. It also means that water is polar since the two hydrogen atoms are not parallel to each other and so do not cancel out the bond polarity (refer back to the previous chapter on molecular shape). We can see this in the following image:
+
+
+
+
+
+
+  
+
+
+
+
+
+Water molecules are held together by hydrogen bonds. Hydrogen bonds are a much stronger type of intermolecular force than those found in many other substances, and this affects the properties of water.
+In short, the molecule itself is polar. The polarity of water has an enormous impact on its physical and chemical properties. (For example, the boiling point of water [100°C] is high for such a small molecule and is due to the fact that polar molecules attract each other strongly.)
+
+
+Some properties of water include:
+* Water has a high specific heat, meaning that a lot of energy must be absorbed by water before its temperature changes
+* Water is able to absorb infra-red radiation (heat) from the sun. As a result of this, the oceans and other water bodies act as heat reservoirs, and are able to help moderate the Earth's climate.
+* The melting point of water is 0℃ and its boiling point is 100℃ (at standard pressure or 0,987 atm). This large difference between the melting and boiling point is very important because it means that water can exist as a liquid over a large range of temperatures.
+* The strength of the hydrogen bonds between water molecules also means that it has a high heat of vaporisation. “Heat of vaporisation” is the heat energy that is needed to change water from the liquid to the gas phase. Because the forces between molecules are strong, water has to be heated to 100℃ before it changes phase. At this temperature, the molecules have enough energy to break the intermolecular forces that hold the molecules together. The heat of vaporisation for water is 40,65kJ·mol−1.
+* The solid phase (ice) is less dense than its liquid phase.
+
+
+
+
+Because of its highly polar structure, liquid water can act as either an acid (by donating a proton to a base) or a base (by using a lone pair of electrons to accept a proton). For example, when a strong acid such as HCl dissolves in water, it dissociates into chloride ions (Cl−) and protons (H+). The proton, in turn, reacts with a water molecule to form the hydronium ion (H3O+).
+Water is thus termed amphiprotic, meaning that it can behave as either an acid or a base, depending on the nature of the other reactant.
+Because water is amphiprotic, one water molecule can react with another to form an OH− ion and an H3O+ ion in an autoionization process:
+2H2O(l)↽−−⇀H3O+(aq)+OH−(aq)
+
+
+In pure water, a very small fraction of water molecules donate protons to other water molecules to form hydronium ions and hydroxide ions:
+ This figure has two rows. In both rows, a chemical reaction is shown. In the first, structural formulas are provided. In this model, in purple, O atom which has H atoms singly bonded above and to the right. The O atom has pairs of electron dots on its left and lower sides. This is followed by a plus sign, which is followed in green by an O atom which has H atoms singly bonded above and to the right. The O atom has pairs of electron dots on its left and lower sides. A double arrow follows. To the right, in brackets is a structure with a central O atom in green, with green H atoms singly bonded above and to the right. A pair of green electron dots is on the lower side of the O atom. To the left of the green O atom, a purple H atom is singly bonded. Outside the brackets to the right is a superscript plus. This is followed by a plus sign and an O atom in purple with pairs of electron dots above, left, and below. An H atom is singly bonded to the right. This atom has a superscript negative sign. The reaction is written in symbolic form below. H subscript 2 O is labeled in purple below as “Acid subscript 1.” This is followed by plus H subscript 2 O, which is labeled in green below as “Base subscript 2.” A double sided arrow follows. To the right is H subscript 3 O superscript plus, which is labeled in green as below in as “Acid subscript 2.” This is followed by plus and O with pairs of dots above, below, and to the left with a singly bonded H on the right with a superscript negative. The label below in purple reads, “ Base subscript 1.” 
+
+This type of reaction, in which a substance ionizes when one molecule of the substance reacts with another molecule of the same substance, is referred to as autoionization or self-ionisation
+
+
+4. Solutions. Their components, and types of concentration. 
+Solution: A solution is a homogenous mixture of two or more substances in relative amounts that can be varied continuously up to what is called the limit of solubility. The term solution is commonly applied to the liquid state of matter, but solutions of gases and solids are possible. Air, for example, is a solution consisting chiefly of oxygen and nitrogen with trace amounts of several other gases, and brass is a solution composed of copper and zinc.
+
+
+A solution consists of two components: solute (the dissolved material) and solvent (the liquid in which the solute is dissolved). The amount of solute in a given amount of solution or solvent is known as the concentration. The two most common ways of expressing concentration are molarity and molality. 
+-The molar concentration (M) of a solution is defined as the number of moles of solute (n) per liter of solution (i.e, the volume, Vsolution):
+M=n/Vsolution
+The units of molarity are mol/L, often abbreviated as M.
+-The molal concentration (m) of a solution is defined as the number of moles of solute (n) per kilogram of solvent (i.e., the mass of the solvent, msolvent):
+m=n/msolvent
+The units of molality are mol/kg, or m.
+
+
+A solution is a homogeneous mixture of two or more substances evenly distributed in each other. A liquid solution consists of two parts: the solid, liquid, or gaseous material that has dissolved the solute, and a liquid material in which it has dissolved the solvent. 
+
+
+When a crystal of salt is placed in water, which is then stirred, the crystal dissolves and a clear solution is formed. When more salt is added to salt-water solution, it too dissolves, making the solution more concentrated than the previous one. Even more salt can be dissolved in the water to make it a much more concentrated salt solution. Thus, one of properties of solutions is that they have a variable composition. 
+When salt dissolved in water to make salt water, the solution formed is clear and colorless. When sugar is dissolved in water, again a clear, colorless solution is formed. When copper sulfate is dissolved in water, it also forms a clear solution. However, the solutions formed with the salt and the sugar are colorless, whereas that formed with cooper sulfate is blue. Solutions are always clear. They may or may not have a color. Clear merely means that the solution is transparent to light. 
+When a solution is allowed to stand undisturbed for a long period of time, no crystals of solute settle out, provided the solvent is not allowed to evaporate. This is another property of solutions – the solute not settle out. 
+
+
+The salt in salt – water solution can be recovered by allowing the water to evaporate; the same is true of the sugar in a sugar solution. In general, solutions can be separated by physical means. 
+
+
+The properties of solutions are summarized as follows:  
+* Solutions consist of s soluble materials (the solute) dissolved in a liquid (the solvent)  
+* Solutions have a variable composition  
+* Solutions are clear  
+* Solution are homogeneous  
+* Solutions can be separated by physical means 
+
+
+
+
+
+
+Solvents Other Than Water Solvents other than water are also used. 
+-One common solvent used in hospitals is alcohol. An alcohol solution used medically is called a tincture. Tincture of iodine contains iodine dissolved in alcohol. Tincture of green soap contains potassium soap dissolved in alcohol
+
+
+Factors Affecting Solubility of a Solute
+* Temperature- Most solid solutes are more soluble in hot water than in cold water. 
+* Pressure- A change in pressure has no noticeable effect on the solubility of a solid or liquid solute in a given solvent but will affect the solubility of a gaseous solute. The greater the pressure, the greater the solubility of a gas in a liquid. 
+* Surface Area- Although surface area does not affect the amount of solute that will dissolve, it does affect the rate of dissolution. The greater the amount of surface area, the quicker a solute will dissolve in a solvent. Thus, to make a solid solute dissolve faster we frequently powder it, thereby increasing the surface area. 
+* Stirring- The rate at which a solute dissolves can also be increased by stirring the mixture. The process of stirring brings fresh solvent into contact with the solute and so permits more rapid solution. 
+* Nature of Solvent- In general, polar liquids dissolve polar compounds and nonpolar liquids dissolve nonpolar compounds. Water is a polar liquid and dissolves polar compounds such as sodium chloride (NaCl)
+
+
+Strength of Solutions:
+
+
+Saturated 
+Suppose a small amount of salt is placed in a beaker of water. When the mixture is stirred, all the salt will dissolve. If more and more salt is added with stirring, a point will soon be reached where some of the salt settles to the bottom of the beaker. This type of solution is called a saturated solution. 
+Unsaturated 
+An unsaturated solution contains less of a solute than it could hold under normal conditions. Suppose that a saturated solution of glucose in a certain amount of water contains 25 g of glucose. An unsaturated glucose solution would be one that contained less than 25 g of glucose in the same amount of water. 
+Supersaturated 
+Under certain conditions a solvent can be made to dissolve more solute than its saturated solution can hold under the same conditions. A supersaturated solution can be prepared by adding excess solute to a saturated solution, heating that mixture, filtering off the excess solute, and then allowing the liquid to cool slowly.
+
+
+5. Solubility of solid, liquid or gaseous solutes. Precipitation and the solubility product.
+Solubility is the ability of a solid, liquid, or gaseous chemical substance (referred to as the solute) to dissolve in solvent (usually a liquid) and form a solution. The solubility of a substance fundamentally depends on the solvent used, as well as temperature and pressure. The solubility of a substance in a particular solvent is measured by the concentration of the saturated solution. A solution is considered saturated when adding additional solute no longer increases the concentration of the solution.
+The degree of solubility ranges widely depending on the substances, from infinitely soluble (fully miscible), such as ethanol in water, to poorly soluble, such as silver chloride in water. The term “insoluble” is often applied to poorly soluble compounds. Under certain conditions, the equilibrium solubility can be exceeded, yielding a supersaturated solution.
+Solubility does not depend on particle size; given enough time, even large particles will eventually dissolve.
+Factors Affecting Solubility
+* Temperature
+The solubility of a given solute in a given solvent typically depends on temperature. For many solids dissolved in liquid water, solubility tends to correspond with increasing temperature. As water molecules heat up, they vibrate more quickly and are better able to interact with and break apart the solute.  
+Solubilty of various substances vs. temperature change
+The solubility of gases displays the opposite relationship with temperature; that is, as temperature increases, gas solubility tends to decrease. In a chart of solubility vs. temperature, notice how solubility tends to increase with increasing temperature for the salts and decrease with increasing temperature for the gases.
+* Pressure
+Pressure has a negligible effect on the solubility of solid and liquid solutes, but it has a strong effect on solutions with gaseous solutes. This is apparent every time you open a soda can; the hissing sound from the can is due to the fact that its contents are under pressure, which ensures that the soda stays carbonated (that is to say, that the carbon dioxide stays dissolved in solution). The takeaway from this is that the solubility of gases tends to correlate with increasing pressure.
+* Polarity
+A popular saying used for predicting solubility is “Like dissolves like.” This statement indicates that a solute will dissolve best in a solvent that has a similar chemical structure; the ability for a solvent to dissolve various compounds depends primarily on its polarity. For example, a polar solute such as sugar is very soluble in polar water, less soluble in moderately polar methanol, and practically insoluble in non-polar solvents such as benzene. In contrast, a non-polar solute such as naphthalene is insoluble in water, moderately soluble in methanol, and highly soluble in benzene.
+
+
+Precipitation reactions occur when cations and anions in aqueous solution combine to form an insoluble ionic solid called a precipitate.
+
+
+Precipitates are insoluble ionic solid products of a reaction, formed when certain cations and anions combine in an aqueous solution. The determining factors of the formation of a precipitate can vary. Some reactions depend on temperature, such as solutions used for buffers, whereas others are dependent only on solution concentration. The solids produced in precipitate reactions are crystalline solids, and can be suspended throughout the liquid or fall to the bottom of the solution. The remaining fluid is called supernatant liquid (or just the supernate). The two components of the mixture (precipitate and supernate) can be separated by various methods, such as filtration, centrifuging, or decanting.
+
+
+The solubility product constant,  Ksp ​, is the equilibrium constant for a solid substance dissolving in an aqueous solution. It represents the level at which a solute dissolves in solution. The more soluble a substance is, the higher the  Ksp  value it has.
+Consider the general dissolution reaction below (in aqueous solutions):
+aA(s)↽−−⇀cC(aq)+dD(aq) 
+To solve for the  Ksp  it is necessary to take the molarities or concentrations of the products (cC  and  dD) and multiply them. If there are coefficients in front of any of the products, it is necessary to raise the product to that coefficient power(and also multiply the concentration by that coefficient). This is shown below:
+Ksp=[C]c[D]d
+ 
+Note that the reactant, aA, is not included in the  Ksp  equation. Solids are not included when calculating equilibrium constant expressions, because their concentrations do not change the expression; any change in their concentrations are insignificant, and therefore omitted. Hence, Ksp represents the maximum extent that a solid can be dissolved in solution.
+
+
+
+
+6. Acid-base reactions.
+
+
+An acidic substance is one whose molecular unit contains at least one hydrogen atom that can dissociate, or ionize, when dissolved in water, producing a hydrated hydrogen ion and an anion. 
+Acids have 4 main chemical properties:
+* A characteristic sour taste (think of lemon juice!);  
+* ability to change the color of litmus* from blue to red;  
+* react with certain metals to produce gaseous H2;  
+* react with bases to form a salt and water.
+
+
+The strong acids such as HCl and HNO3 are effectively 100% dissociated in solution. 
+Most organic acids, such as acetic acid, are weak; only a small fraction of the acid is dissociated in most solutions. HF and HCN are examples of weak inorganic acids. 
+Intermediate forms such as HPO4 2– , being capable of both accepting and losing protons, are called ampholytes. 
+
+
+A base is a substance that yields an excess of hydroxyl ions when dissolved in water.
+Bases have 5 main chemical properties:
+* a bitter taste;  
+* a “soapy” feeling when applied to the skin;  
+* ability to restore the original blue color of litmus that has been turned red by acids;  
+* ability to react with acids to form salts.  
+* react with certain metals to produce gaseous H2;
+
+
+Acids and bases react with one another to yield two products: water, and an ionic compound known as a salt. This kind of reaction is called a neutralization reaction.
+HCl + NaOH→ NaCl + H2O 
+Acid + base→ salt + water
+
+
+In 1923 the Danish chemist J.N. Brønsted, building on Franklin's theory, proposed that 
+-An acid is a proton donor; a base is a proton acceptor.
+
+
+According to the Brønsted concept, the process that was previously written as a simple dissociation of a generic acid HA ("HA → (H+) + (A–) )" is now an acid-base reaction in its own right: HA + H2O → (A–) + (H3O+). 
+The idea, again, is that the proton, once it leaves the acid, must end up somewhere; it cannot simply float around as a free hydrogen ion. Conjugate pairs A reaction of an acid with a base is thus a proton exchange reaction; if the acid is denoted by AH and the base by B, then we can write a generalized acid-base reaction as AH + B → (A–) + (BH+)
+
+
+From some examples, we see that water can act as an acid:
+(CN–) + H2O → HCN + (OH–) 
+and as a base:
+NH4 + + H2O → NH3 + (H3O+)
+This reaction is known as the autoprotolysis of water.
+
+
+Water, which can act as either an acid or a base, is said to be amphiprotic: it can "swing both ways". A substance such as water that is amphiprotic is called an ampholyte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Chemical equilibria, Le Chatelier’s principle, acid-base buffer solutions.
+Chemical equilibrium is a condition in the course of a reversible chemical reaction in which no net change in the amounts of reactants and products occurs. A reversible chemical reaction is one in which the products, as soon as they are formed, react to produce the original reactants. 
+At equilibrium, the two opposing reactions go on at equal rates, or velocities, and hence there is no net change in the amounts of substances involved. 
+At this point the reaction may be considered to be completed; i.e. for some specified reaction condition, the maximum conversion of reactants to products has been attained.
+
+
+Le Chatelier’s principle is an observation about chemical equilibria of reactions. It states that changes in the temperature, pressure, volume, or concentration of a system will result in predictable and opposing changes in the system in order to achieve a new equilibrium state. Le Chatelier’s principle can be used in practice to understand reaction conditions that will favor increased product formation.
+
+
+A buffer solution is an aqueous solution consisting of a mixture of a weak acid and its conjugate base or a weak base and its conjugate acid. It has the property that the pH of the solution changes very little when a small amount of acid or base is added to it. Buffer solutions are used as a means of keeping pH at a nearly constant value in a wide variety of chemical applications. 
+
+
+Buffers can be divided in two main groups: 
+1.) An acidic buffer solution is simply one which has a pH less than 7. Acidic buffer solutions are commonly made from a weak acid and one of its salts - often a sodium salt. 
+2.) An alkaline buffer solution has a pH greater than 7. Alkaline buffer solutions are commonly made from a weak base and one of its salts. A frequently used example is a mixture of ammonia solution and ammonium chloride solution (NH4OH/NH4Cl).
+
+
+A buffer solution has to contain things which will remove any hydrogen ions or hydroxide ions that you might add to it - otherwise the pH will change. Acidic and alkaline buffer solutions achieve this in different ways. 
+1.) Acidic buffer solutions 
+We'll take a mixture of ethanoic acid and sodium ethanoate as typical. Ethanoic acid is a weak acid, and the position of this equilibrium will be well to the left: 
+  
+
+
+
+
+
+
+
+Adding sodium ethanoate to this adds lots of extra ethanoate ions. According to Le Chatelier's Principle, that will tip the position of the equilibrium even further to the left. 
+
+
+Adding an acid to this buffer solution:
+The buffer solution must remove most of the new hydrogen ions otherwise the pH would drop markedly. Hydrogen ions combine with the ethanoate ions to make ethanoic acid. Although the reaction is reversible, since the ethanoic acid is a weak acid, most of the new hydrogen ions are removed in this way. 
+CH3COO- (aq) + H+ (aq) CH3COOH (aq) 
+Since most of the new hydrogen ions are removed, the pH won't change very much - but because of the equilibria involved, it will fall a little bit. 
+
+
+Adding an alkali to this buffer solution:
+Alkaline solutions contain hydroxide ions and the buffer solution removes most of these. This time the situation is a bit more complicated because there are two processes which can remove hydroxide ions.
+ • Removal by reacting with ethanoic acid 
+The most likely acidic substance which a hydroxide ion is going to collide with is an ethanoic acid molecule. They will react to form ethanoate ions and water. CH3COOH(aq) + OHCH3COO- (aq) + H2O(aq) 
+Because most of the new hydroxide ions are removed, the pH doesn't increase very much. 
+
+
+ •Removal of the hydroxide ions by reacting with hydrogen ions 
+Remember that there are some hydrogen ions present from the ionisation of the ethanoic acid. 
+CH3COOH(aq) + OHCH3COO- (aq) + H+ (aq) 
+Hydroxide ions can combine with these to make water. As soon as this happens, the equilibrium tips to replace them. This keeps on happening until most of the hydroxide ions are removed. 
+
+
+2.) Alkaline buffer solutions 
+We'll take a mixture of ammonia and ammonium chloride solutions as typical. Ammonia is a weak base, and the position of this equilibrium will be well to the left: 
+NH3(aq) + H2O(l) NH4+(aq) + OH- (aq) 
+Adding ammonium chloride to this adds lots of extra ammonium ions. According to Le Chatelier's Principle, that will tip the position of the equilibrium even further to the left. 
+The solution will therefore contain these important things: 
+* lots of unreacted ammonia; 
+* lots of ammonium ions from the ammonium chloride;  
+* enough hydroxide ions to make the solution alkaline. 
+
+
+Adding an acid to this buffer solution:
+There are two processes which can remove the hydrogen ions that you are adding. •Removal by reacting with ammonia 
+The most likely basic substance which a hydrogen ion is going to collide with is an ammonia molecule. They will react to form ammonium ions. 
+NH3(aq) + H+ (aq) NH4+(aq) 
+Most, but not all, of the hydrogen ions will be removed. The ammonium ion is weakly acidic, and so some of the hydrogen ions will be released again. 
+•Removal of the hydrogen ions by reacting with hydroxide ions 
+Remember that there are some hydroxide ions present from the reaction between the ammonia and the water. 
+NH3(aq) + H2O(aq) NH4+(aq) + OH- (aq) 
+
+
+Adding an alkali to this buffer solution:
+The hydroxide ions from the alkali are removed by a simple reaction with ammonium ions. NH4+(aq) + OH-(aq) NH3(aq) + H2O(l) 
+Because the ammonia formed is a weak base, it can react with the water - and so the reaction is slightly reversible. That means that, again, most (but not all) of the hydroxide ions are removed from the solution. 
+
+
+The pH range of a buffered solution is given by the Henderson- Hasselbalch equation:
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buffer capacity is a quantitative measure of the resistance of a buffer solution to pH change on addition of hydroxide ions. It can be defined as follows:
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+where ∆Cbase and ∆Cacid are the concentration of the strong base or strong acid and ∆pH is the resulting change in pH. 
+The mathematical sign minus in front of the second part of the equation is due to the fact that adding an acid will lead to decrease in the pH-value.
+
+
+Their resistance to changes in pH makes buffer solutions very useful for chemical manufacturing and essential for many biochemical processes. The ideal buffer for a particular pH has a pKa equal (or close) to that pH, since such a solution has maximum buffer capacity.
+8. Redox reactions. Changes in the oxidation number and transfer of electrons. Voltaic cells. 
+Oxidising agents give oxygen to another substance or remove hydrogen from it.  
+Reducing agents remove oxygen from another substance or give hydrogen to it.
+
+
+Definitions:
+Oxidation is gain of oxygen. 
+Reduction is loss of oxygen
+
+
+Oxidation is loss of hydrogen.  
+Reduction is gain of hydrogen.
+
+
+Oxidation is loss of electrons.  
+Reduction is gain of electrons.
+
+
+Electron half equations:
+When magnesium reduces hot copper(II) oxide to copper, the ionic equation for the reaction is: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can split the ionic equation into two parts, and look at it from the point of view of the magnesium and of the copper(II) ions separately. This shows clearly that the magnesium has lost two electrons, therefore gained a 2+ charge, and the copper(II) ions have gained two electrons therefore changing its charge from 2+ to neutral. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+These two equations are described as "electron-half-equations" or "half-equations" or "ionic half-equations" or "half-reactions" - lots of variations all meaning exactly the same thing! 
+
+
+Any redox reaction is made up of two half-reactions: in one of them electrons are being lost (an oxidation process) and in the other one those electrons are being gained (a reduction process). 
+
+
+Because both reduction and oxidation are going on side-by-side, this is known as a REDOX reaction.
+
+
+An example can be: ethanol oxidised to ethanal:
+  
+
+
+
+You would need to use an oxidising agent to remove the hydrogen from the ethanol. A commonly used oxidising agent is potassium dichromate(VI) solution acidified with dilute sulphuric acid.
+
+
+A voltaic cell is an electrochemical cell that uses a chemical reaction to produce electrical energy.   
+
+
+
+
+
+
+
+
+
+
+
+
+The important parts of a voltaic cell:
+1. The anode is an electrode where oxidation occurs.
+2. The cathode is an electrode where reduction occurs.
+3. A salt bridge is a chamber of electrolytes necessary to complete the circuit in a voltaic cell.
+4. The oxidation and reduction reactions are separated into compartments called half-cells.
+5. The external circuit is used to conduct the flow of electrons between the electrodes of the voltaic cell and usually includes a load.
+6. The load is the part of the circuit which utilizes the flow of electrons to perform some function.
+
+
+
+
+
+
+
+
+9. Standard reduction potentials. The effect of temperature, pressure and concentrations on the reduction potential.
+Reduction potential (also known as redox potential, oxidation/reduction potential, or Eh) measures the tendency of a chemical species to acquire electrons and thereby be reduced. Reduction potential is measured in volts (V) or millivolts (mV). Each species has its own intrinsic reduction potential. The more positive the potential, the greater the species’ affinity for electrons, or the more the species tends to be reduced.
+ image 
+
+Oxidation-reduction in a galvanic cell: In this galvanic cell, zinc reduces copper cations. The reaction yields zinc cations and neutral copper metal.
+The standard reduction potential (E0) is measured under standard conditions:
+* 25 °C
+* 1 M concentration for each ion participating in the reaction
+* Partial pressure of 1 atm for each gas that is part of the reaction
+* Metals in their pure states
+The standard reduction potential is defined relative to a standard hydrogen electrode (SHE) reference electrode, which is arbitrarily given a potential of 0.00 volts.
+The Gibbs free energy change determines the voltage of an electrochemical cell. This in turn depends on factors such as concentration, gas pressure, and temperature. The concentration and the gas pressure affect the cell potential.
+Changing the concentration of one solution in the cell will increase the voltage potential of the cell because you are putting the system further out of equilibrium. Because the concentration in only one side of the cell has changed, the concentration gradient across both sides of the cell becomes steeper.
+If we make a change that pushes the system towards equilibrium, the potential goes down.
+
+
+10. Redox reactions and Lewis acid-base reactions of iron and its different ions. The biological roles of heme.
+Redox reactions are reactions in which one species is reduced and another is oxidized. Therefore the oxidation state of the species involved must change. These reactions are important for a number of applications, including energy storage devices (batteries), photographic processing, and energy production and utilization in living systems including humans.
+Reduction: A process in which an atom gains an electron and therefore decreases (or reduces its oxidation number). Basically the positive character of the species is reduced.
+Oxidation: A process in which an atom loses an electron and therefore increases its oxidation number. In other words, the positive character of the species is increased.
+A Lewis acid is defined as an electron-pair acceptor, whereas a Lewis base is an electron-pair donor. Under this definition, we need not define an acid as a compound that is capable of donating a proton, because under the Lewis definition, H+ itself is the Lewis acid; this is because, with no electrons, H+ can accept an electron pair.
+A Lewis base, therefore, is any species that donates a pair of electrons to a Lewis acid. The “neutralization” reaction is one in which a covalent bond forms between an electron-rich species (the Lewis base) and an electron-poor species (the Lewis acid). For this reason, Lewis bases are often referred to as nucleophiles (literally, “lovers of nuclei”), and Lewis acids are sometimes called electrophiles (“lovers of electrons”). 
+Examples of Lewis acids are metal ions, like Fe2+, Fe3+, Mg2+, and Zn2+. All of these elements play a critical role in biological systems via their behavior as Lewis acids. An important example is the heme group of hemoglobin. In the center of this group is a positively-charged iron (Fe) atom. Such positively-charged ions (cations) have empty orbitals that can interact with the lone pair electrons from Lewis bases and form Lewis acid–base complexes. In the case of hemoglobin, the Lewis bases (O2, CO2, and CO) interact with Fe to move oxygen into the body from the lungs and move CO2 from the body to the lungs.
+The biological roles of heme include:
+* It can bind gases, such as oxygen, and transport them throughout an organism. Special proteins then force the heme to release its oxygen at the appropriate time. A good example of a protein of this type is hemoglobin.
+* The second function of hemes is holding electrons and facilitating reactions in the electron transport chain which occurs in all organisms.
+
+
+
+
+
+
+11. Heat of the chemical reactions. Exothermic and endothermic reactions. The conservation of energy. 
+The heat of reaction is the energy that is released or absorbed when chemicals are transformed in a chemical reaction. It describes the change of the energy content when reactants are converted into products.
+
+
+To calculate the energy required to raise the temperature of a known mass of a substance, you use the specific heat formula:
+Q = m × c × ΔT
+Q is the energy transferred in joules, m is the mass of the substances in kg, c is the specific heat capacity in J/kg degrees C, and ΔT is the temperature change in degrees C in the specific heat formula
+
+
+
+
+Exothermic Reactions are reactions or processes that release energy, usually in the form of heat or light. In an exothermic reaction, energy is released because the total energy of the products is less than the total energy of the reactants.  In exothermic reactions, more energy is released when the bonds are formed in the products than is used to break the bonds in the reactants.
+
+
+NOTE: The change in enthalpy for an exothermic reaction will ALWAYS be negative. In the presence of water, a strong acid will dissociate quickly and release heat, so it is an exothermic reaction. 
+
+
+  
+
+
+
+The total energy of the products is less than the total energy of the reactants. Therefore,the change in enthalpy is negative, and heat is released to the surroundings.
+
+
+Endothermic Reactions Endothermic reactions are reactions that require external energy, usually in the form of heat, for the reaction to proceed. In endothermic reactions, more energy is absorbed when the bonds in the reactants are broken than is released when new bonds are formed in the products. Since endothermic reactions draw in heat from their surroundings, they tend to cause their environments to cool down. They are also generally non-spontaneous, since endothermic reactions yield products that are higher in energy than the reactants. 
+
+
+NOTE: The change in enthalpy for an endothermic reaction is ALWAYS positive. In order to melt the ice cube, heat is required, so the process is endothermic.
+
+
+  
+
+
+
+Whether a reaction is endothermic or exothermic depends on the direction that it is going; some reactions are reversible, and when you revert the products back to reactants, the change in enthalpy is opposite.
+
+
+There are two methods for distinguishing between exothermic and endothermic reactions.
+* Monitor temperature change
+When energy is released in an exothermic reaction, the temperature of the reaction mixture increases. When energy is absorbed in an endothermic reaction, the temperature decreases. You can monitor changes in temperature by placing a thermometer in the reaction mixture.
+* Calculate the enthalpy of reaction (ΔH)
+Enthalpy is a measure of internal energy. So, when you calculate the difference between the enthalpy of the products and the enthalpy of the reactants, you find the enthalpy change (ΔH), which can be represented mathematically as:
+ΔH = energy used in reactant bond breaking + energy released in product bond making
+If ΔH is negative (−) then the chemical reaction is exothermic, because more energy is released when the products are formed than energy is used to break up the reactants. If ΔH is positive (+) then the chemical reaction is endothermic, because less energy is released when the products are formed than the energy is used to break up the reactants.
+
+
+The law of conservation of energy states that energy can neither be created nor destroyed - only converted from one form of energy to another. This means that a system always has the same amount of energy, unless it's added from the outside. The law of Conservation of Energy refers to an isolated system in which there is no net change in energy and where energy is neither created nor destroyed. Although there is no change in energy, energy can change forms, for example from potential to kinetic energy. In other words, potential energy (V) and kinetic energy (T) sum to a constant total energy (E) for a specific isolated system.
+
+
+
+
+12.Changes in entropy and in free enthalpy. Driving force of natural processes. Entropy and the state of matter.
+Enthalpy is the amount of internal energy contained in a compound whereas entropy is the amount of intrinsic disorder within the compound. Enthalpy is zero for elemental compounds such hydrogen gas and oxygen gas; therefore, enthalpy is nonzero for water (regardless of phase). Entropy, or the amount of disorder, is always highest for gases and lowest for solids. This is because gas molecules are widely spread out and, therefore, are more disordered than solids and liquids. Hydrogen gas will have a higher entropy than liquid water.
+Many chemical reactions and physical processes release energy that can be used to do other things. When the fuel in a car is burned, some of the released energy is used to power the vehicle. Free energy is energy that is available to do work. Spontaneous reactions release free energy as they proceed. Recall that the determining factors for spontaneity of a reaction are the enthalpy and entropy changes that occur for the system. The free energy change of a reaction is a mathematical combination of the enthalpy change and the entropy change.
+ Delta G^circ=Delta H^circ - T Delta S^circ 
+
+The symbol for free energy is  G 
+ The change in Gibbs free energy is equal to the change in enthalpy minus the mathematical product of the change in entropy multiplied by the Kelvin temperature. The usual units for  Delta H  is kJ/mol, while  Delta S  is often reported in J/K • mol. It is necessary to change the units for  Delta S  to kJ/K • mol, so that the calculation of  Delta G  is in kJ/mol.  
+
+
+
+
+
+
+Enthalpy as a Driving Forces
+The vast majority of naturally occurring reactions are exothermic. In an exothermic reaction, the reactants have a relatively high quantity of energy compared to the products. As the reaction proceeds, energy is released into the surroundings. Low energy can be thought of as providing a greater degree of stability to a chemical system. Since the energy of the system decreases during an exothermic reaction, the products of the system are more stable than the reactants. We can say that an exothermic reaction is an energetically favorable reaction.
+If the drive toward lower energy were the only consideration for whether a reaction is able to occur, we would expect that endothermic reactions could never occur spontaneously. In an endothermic reaction, energy is absorbed during the reaction, and the products thus have a larger quantity of energy than the reactants. This means that the products are less stable than the reactants. Therefore, the reaction would not occur without some outside influence such as persistent heating. However, endothermic reactions do occur spontaneously, or naturally. There must be another driving force besides enthalpy change which helps promote spontaneous chemical reaction.
+Entropy as a Driving Force
+A very simple endothermic process is that of a melting ice cube. Energy is transferred from the room to the ice cube, causing it to change from the solid to the liquid state.
+H2O(s)+6.01kJ→H2O(l)
+The solid state of water, ice, is highly ordered because its molecules are fixed in place. The melting process frees the water molecules from their hydrogen-bonded network and allows them a greater degree of movement. Water is more disordered than ice. The change from the solid to the liquid state of any substance corresponds to an increase in the disorder of the system.
+There is a tendency in nature for systems to proceed toward a state of greater disorder or randomness. Entropy is a measure of the degree of randomness or disorder of a system. Entropy is an easy concept to understand when thinking about everyday situations. When the pieces of a jigsaw puzzle are dumped from the box, the pieces naturally hit the table in a very random state. In order to put the puzzle together, a great deal of work must be done in order to overcome the natural entropy of the pieces. The entropy of a room that has been recently cleaned and organized is low. As time goes by, it likely will become more disordered, and thus its entropy will increase. The natural tendency of a system is for its entropy to increase.
+Entropy by definition is the degree of randomness in a system.
+If we look at the three states of matter: Solid, Liquid and Gas, we can see that the gas particles move freely and therefore, the degree of randomness is the highest.
+For liquid state, still the particles are moving but less freely than the gas particles and more than the solid particles.
+Therefore, 
+Sgas>>Sliquid>Ssolid
+
+
+
+
+
+
+
+
+
+
+
+
+13. The rate of a chemical reaction, and its dependence on temperature. The activation energy and catalysis. 
+Reaction rate, in chemistry, is the speed at which a chemical reaction proceeds. It is often expressed in terms of either the concentration (amount per unit volume) of a product that is formed in a unit of time or the concentration of a reactant that is consumed in a unit of time.
+
+
+1. Temperature
+As you increase the temperature the rate of reaction increases. Particles can only react when they collide. If you heat a substance, the particles move faster and so collide more frequently, this will speed up the rate of reaction.
+Collisions only result in a reaction if the particles collide with enough energy to get the reaction started. This minimum energy required is called the ACTIVATION ENERGY for the reaction.
+
+
+The source of the activation energy needed to push reactions forward is typically heat energy from the surroundings. Heat energy (the total bond energy of reactants or products in a chemical reaction) speeds up the motion of molecules, increasing the frequency and force with which they collide. It also moves atoms and bonds within the molecule slightly, helping them reach their transition state. For this reason, heating up a system will cause chemical reactants within that system to react more frequently. Increasing the pressure on a system has the same effect. Once reactants have absorbed enough heat energy from their surroundings to reach the transition state, the reaction will proceed.
+The activation energy of a particular reaction determines the rate at which it will proceed. The higher the activation energy, the slower the chemical reaction will be.
+NOTE: Increasing the temperature INCREASES the rate of enzyme activity and reaction rates because of the disproportionately large increase in the number of high energy collisions. However, when an optimum temperature is reached, the enzyme activity decreases as the enzyme’s active site changes shape, thus it is considered to be non functional and denatured.
+
+
+
+
+
+
+
+
+  
+
+
+
+As shown in the diagram below: ( T: the original temperature and T + t: higher temperature)
+  
+
+
+
+In the diagram below the position of the activation energy is marked, even though the curve has not moved very much, there has been a large INCREASE in the number of the energetic particles, hence many more now collide with enough energy to react.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Substrate concentration
+As the concentration of the substrate increases, so does the rate of enzyme activity. However, the rate of enzyme activity does not increase forever.
+This is because a point will be reached when the enzymes become saturated and no more substrates can fit at any one time even though there is plenty of substrate available. 
+An optimum rate is reached at the enzyme’s optimum substrate concentration. A continued increase in substrate concentration results in the same activity as there are not enough enzyme molecules available to break down the excess substrate molecules.
+
+
+  
+
+
+
+
+
+3. Catalyst
+A catalyst is a substance which speeds up a reaction, but is chemically unchanged at the end of the reaction. When the reaction has finished, you would have exactly the same mass of catalyst as you had at the beginning
+
+
+Adding a catalyst lowers the ACTIVATION ENERGY. A catalyst provides an alternative route for the reaction with a LOWER activation energy, therefore speeding up the overall reaction time.
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+14. Carbon-carbon covalent bonds in organic chemistry. Saturated and unsaturated hydrocarbons, aromatic compounds. 
+A carbon–carbon bond is a covalent bond between two C atoms. The most familiar form is the single bond comprised of two electrons, one from each of the two atoms. 
+
+
+Alkanes are hydrocarbons that contain in their molecules only single bonds between the carbon atoms as well as between carbon and hydrogen atoms. 
+They are the richest in hydrogen hydrocarbons. That is why they are called saturated hydrocarbons. Their simplest representative is methane. 
+
+
+The alkanes are hydrocarbons similar to methane in structural and properties, but differ from it in that their molecules are built up from a larger number of carbon and hydrogen atoms. In these hydrocarbons the carbon atoms are linked in chains containing 2, 3, 4, or more carbon atoms. If we arrange these hydrocarbons in order of increasing number of carbon atoms in their molecules, a series of compounds is obtained called a homologous series. 
+
+
+The composition of the alkaline homologues is expressed by the general formula CnH2n+2, where n is the number of carbon atoms in a given homologue. 
+
+
+In the molecules of the alkalines the carbon atoms are linked to each other by covalent nonpolar bonds, the bonds between the carbon and hydrogen atoms are weakly polar. 
+
+
+All the alkanes with 4 or more carbon atoms in them show structural isomerism. This means that there are two or more different structural formulae that you can draw for each molecular formula. For example, C4H10 could be either of these two different molecules: 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These are called respectively butane and 2-methylpropane. 
+
+
+Alkanes experience inter-molecular van der Waals forces. Stronger inter-molecular van der Waals forces give rise to greater boiling points of alkanes. There are two determinants for the strength of the van der Waals forces:  
+   * the number of electrons surrounding the molecule, which increases with the alkane's molecular weight  
+   * the surface area of the molecule  
+
+
+The chemical properties of the alkalines are determined by the practically nonpolar or weakly polar bonds in their molecules. This determines their relatively small reactivity. 
+The chemical properties of the alkalines are similar to those of methane. They take part in substitution reactions with the halogen elements. On halogenation one, two or more hydrogen atoms in the molecules of the corresponding alkalines are successfully replaced. 
+
+
+Some hydrocarbons have one or more carbon–carbon double bonds (denoted C=C). These hydrocarbons are called alkenes or unsaturated hydrocarbons. Note that the names of alkenes have the same stem as the alkane with the same number of carbon atoms in its chain but have the ending -ene. Thus, ethene is an alkene with two carbon atoms per molecule, and propene is a compound with three carbon atoms and one double bond.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alkynes are hydrocarbons with a carbon–carbon triple bond (denoted C≡C) as part of their carbon skeleton. Below is the formula and the molecular model of the simplest alkyne and its systematic name. Its common name is acetylene. Its chemical formula is C2H2.
+ imageedit_141_2110944394.png 
+
+Ethyne
+The names for alkynes have the same stems as for alkanes but with the ending -yne.
+The carbon–carbon double and triple bonds are examples of functional groups in organic chemistry. A functional group is a specific structural arrangement of atoms or bonds that imparts a characteristic chemical reactivity to a molecule. Alkanes have no functional group. A carbon–carbon double bond is considered a functional group because carbon–carbon double bonds chemically react in specific ways that differ from reactions of alkanes (for example, under certain circumstances, alkenes react with water); a carbon–carbon triple bond also undergoes certain specific chemical reactions. 
+If an OH group (also called a hydroxyl group) is substituted for a hydrogen atom in a hydrocarbon molecule, the compound is an alcohol.
+Another important family of organic compounds has a carboxyl group, in which a carbon atom is double-bonded to an oxygen atom and to an OH group. Compounds with a carboxyl functional group are called carboxylic acids, and their names end in -oic acid.
+
+
+Aromatic compounds, originally named because of their fragrant properties, are unsaturated hydrocarbon ring structures that exhibit special properties, including unusual stability, due to their aromaticity. They are often represented as resonance structures containing single and double bonds. However, the bonding is stronger than expected for a conjugated structure, and it is more accurately depicted as delocalized electron density shared between all the atoms in the ring.
+Aromatic compounds are cyclic structures in which each ring atom is a participant in a[latex]\pi[/latex] bond, resulting in delocalized [latex]\pi[/latex] electron density on both sides of the ring. Due to this connected network of [latex]\pi[/latex] bonds, the rings are planar, unlike the boat or table structures typical of cycloalkanes.
+Aromatic compounds are generally nonpolar and immiscible with water. As they are often unreactive, they are useful as solvents for other nonpolar compounds. Due to their high ratio of carbon to hydrogen, aromatic compounds are characterized by a sooty yellow flame.
+The double bonds in aromatic compounds are less likely to participate in addition reactions than those found in typical alkenes. Instead, cyclic aromatic compounds undergo electrophilic substitution reactions (reactions in which the ring acts as an nucleophile to a suitable electrophile). When benzene participates in such substitution reactions, the product retains the stability associated with the aromatic [latex]\pi[/latex] electron system. This stability is lost in electrophilic addition because the product is not aromatic.
+  
+
+
+
+
+
+
+
+
+
+Electrophilic Aromatic Substitution
+The electron-rich benzene makes a bond with an electron-deficient chemical species (E+, the electrophile) which takes the place of an H-atom in the original structure. The reaction preserves the pi system of electrons and therefore the aromatic character of the benzene ring.
+
+
+
+
+Aliphatic compounds: can be either saturated or unsaturated:
+• Saturated: containing only carbon to carbon single bonds (alkanes) such as: hexane. NOTE: The first 4 alkanes are listed: methane, ethane propane, butane.
+• Unsaturated: containing carbon to carbon double bonds (alkenes) or triple bonds (alkynes) such as hexene and hexyne.
+NOTE: The first 4 alkenes are listed: methene, ethene, propene, butene.
+
+
+REMEMBER: The PREFIX refers to how many carbons are in the chain and the SUFFIX refers to the homologous series the compound belongs to:
+Butane= PREFIX: But (contains 4 carbons) + SUFFIX: ane (alkane)
+
+
+Besides hydrogen, other elements can be bound to the carbon chain, the most common being oxygen, nitrogen, sulphur, and chlorine. 
+Aromatic compounds (arenes): hydrocarbons containing sigma bonds and delocalized pi electrons between carbon atoms forming a circle. Whereas in aliphatic hydrocarbons they lack this delocalization. The term "aromatic" refers simply to the fact that many such compounds have a sweet or pleasant odour. 
+NOTE: NOT all aromatic compounds have a sweet odour, and NOT all compounds with a sweet odour are aromatic. 
+The configuration of six carbon atoms in aromatic compounds is called a benzene ring. Benzene, C6H6, is the least complex aromatic hydrocarbon
+15. Alcohols and phenols. Their reactions and physical properties. 
+Alcohols are compounds in which one or more hydrogen atoms in an alkane have been replaced by an -OH group. An alcohol is an organic compound with a hydroxyl (OH) functional group on an aliphatic carbon atom. Alcohols are represented by the GENERAL formula ROH, where (R) is an alkyl group and (OH) is the functional group.
+
+
+Alcohols fall into different classes depending on how the -OH group is positioned on the chain of carbon atoms. There are some chemical differences between the various types. 
+
+
+Primary alcohols: In a primary alcohol, the carbon which carries the -OH group is only attached to one alkyl group. Notice that it doesn't matter how complicated the attached alkyl group is. In each case there is only one linkage to an alkyl group from the CH2 group holding the -OH group. There is an exception to this. Methanol, CH3OH, is counted as a primary alcohol even though there are no alkyl groups attached to the carbon with the -OH group on it. 
+Secondary alcohols: In a secondary alcohol, the carbon with the -OH group attached is joined directly to two alkyl groups, which may be the same or different. 
+Tertiary alcohols: In a tertiary (3°) alcohol, the carbon atom holding the -OH group is attached directly to three alkyl groups, which may be any combination of same or different. 
+
+
+   * The boiling point of an alcohol is always much higher than that of the alkane with the same number of carbon atoms. 
+   * The boiling points of the alcohols increase as the number of carbon atoms increases.
+
+
+Hydrogen bonding occurs between molecules where you have a hydrogen atom attached to one of the very electronegative elements - fluorine, oxygen or nitrogen. In the case of alcohols, there are hydrogen bonds set up between the slightly positive hydrogen atoms and lone pairs on oxygen’s in other molecules. The hydrogen atoms are slightly positive because the bonding electrons are pulled away from them towards the very electronegative oxygen atoms. 
+
+
+The small alcohols are completely soluble in water. Whatever proportions you mix them in, you will get a single solution. However, solubility falls as the length of the hydrocarbon chain in the alcohol increases. Once you get to four carbons and beyond, the fall in solubility is noticeable, and you may well end up with two layers in your test tube. 
+
+
+Primary alcohols can be oxidised to either aldehydes or carboxylic acids depending on the reaction conditions. In the case of the formation of carboxylic acids, the alcohol is first oxidised to an aldehyde which is then oxidised further to the acid. You get an aldehyde if you use an excess of the alcohol, and distil off the aldehyde as soon as it forms. 
+
+
+Secondary alcohols are oxidised to ketones - and that's it. For example, if you heat the secondary alcohol propan-2-ol with sodium or potassium dichromate(VI) solution acidified with dilute sulphuric acid, you get propanone formed. 
+
+
+Tertiary alcohols aren't oxidised by acidified sodium or potassium dichromate(VI) solution. There is no reaction whatsoever.
+
+
+Alcohol reactions:
+The dehydration of ethanol to give ethene This is a simple way of making gaseous alkenes like ethene. If ethanol vapour is passed over heated aluminium oxide powder, the ethanol is essentially cracked to give ethene and water vapour. 
+Dehydration of alcohols using an acid catalyst The acid catalysts normally used are either concentrated sulphuric acid or concentrated phosphoric(V) acid, H3PO4. Concentrated sulphuric acid produces messy results. Not only is it an acid, but it is also a strong oxidising agent. It oxidises some of the alcohol to carbon dioxide and at the same time is reduced itself to sulphur dioxide. Both of these gases have to be removed from the alkene. 
+The dehydration of ethanol to give ethene Ethanol is heated with an excess of concentrated sulphuric acid at a temperature of 170°C. The gases produced are passed through sodium hydroxide solution to remove the carbon dioxide and sulphur dioxide produced from side reactions. The ethene is collected over water.
+REACTING ALCOHOLS WITH SODIUM- The reaction between sodium and ethanol Details of the reaction If a small piece of sodium is dropped into some ethanol, it reacts steadily to give off bubbles of hydrogen gas and leaves a colourless solution of sodium ethoxide, CH3CH2ONa. Sodium ethoxide is known as an alkoxide. If the solution is evaporated carefully to dryness, the sodium ethoxide is left as a white solid. Sodium ethoxide is just like sodium hydroxide, except that the hydrogen has been replaced by an ethyl group. Sodium hydroxide contains OHions; sodium ethoxide contains CH3CH2O - ions. REPLACING THE -OH GROUP IN ALCOHOLS BY A HALOGEN-Reactions involving hydrogen halides 
+The general reaction looks like this:  
+
+
+
+
+
+
+
+
+Esters are produced when carboxylic acids are heated with alcohols in the presence of an acid catalyst. The catalyst is usually concentrated sulphuric acid. 
+
+
+
+
+
+
+Alcohols are common in nature. Most people are familiar with ethyl alcohol (ethanol), the active ingredient in alcoholic beverages, but this compound is only one of a family of organic compounds known as alcohols.
+The family also includes such familiar substances as cholesterol and the carbohydrates.
+Methanol (CH3OH) and ethanol (CH3CH2OH) are the first two members of the homologous series of alcohols.
+Compounds in which an OH group is attached directly to an aromatic ring are represented by the GENERAL formula (ArOH) and are known as phenols.
+Phenols differ from alcohols in that they are slightly acidic in water. They react with aqueous sodium hydroxide (NaOH) to form salts.
+The parent compound, C6H5OH, is itself called phenol. Phenol is a white crystalline compound that has a distinctive (‘hospital smell’) odor.
+
+
+  
+
+
+
+Alcohols are bases similar in strength to water and accept protons from strong acids.
+EXAMPLE: The following two reactions shown below are ANALOGOUS to one another. The reaction of methanol with hydrogen bromide to form methyloxonium bromide.
+
+
+Pure phenol is a white crystalline solid, smelling of disinfectant. It has to be handled with great care because it causes immediate white blistering to the skin. The crystals are often rather wet and discolored. 
+
+
+Melting and boiling points It is useful to compare phenol's melting and boiling points with those of methylbenzene (toluene). Both molecules contain the same number of electrons and are a very similar shape. That means that the intermolecular attractions due to van der Waals dispersion forces are going to be very similar. The reason for the higher values for phenol is in part due to permanent dipole-dipole attractions due to the electronegativity of the oxygen - but is mainly due to hydrogen bonding. 
+Hydrogen bonds can form between a lone pair on an oxygen on one molecule and the hydrogen on the -OH group of one of its neighbors 
+
+
+Solubility in water Phenol is moderately soluble in water - about 8 g of phenol will dissolve in 100 g of water
+
+
+Unlike alcohols (which also contain an -OH group) phenol is a weak acid. A hydrogen ion can break away from the -OH group and transfer to a base. Phenol is a very weak acid and the position of equilibrium lies well to the left. 
+Phenol can lose a hydrogen ion because the phenoxide ion formed is stabilized to some extent. The negative charge on the oxygen atom is delocalised around the ring. The more stable the ion is, the more likely it is to form. 
+
+
+The -OH group attached to the benzene ring in phenol has the effect of making the ring much more reactive than it would otherwise be.
+
+
+Reaction with bromine water- If bromine water is added to a solution of phenol in water, the bromine water is decolourised and a white precipitate is formed which smells of antiseptic. The precipitate is 2,4,6-tribromophenol. 
+Reactions with nitric acid- The reactions with nitric acid are complicated because nitric acid is an oxidising agent, and phenol is very easily oxidised to give complex tarry products. What follows misses all that complication out, and just concentrates on the ring substitution which happens as well. 
+-With dilute nitric acid-Phenol reacts with dilute nitric acid at room temperature to give a mixture of 2-nitrophenol and 4- nitrophenol. 
+-With concentrated nitric acid-With concentrated nitric acid, more nitro groups substitute around the ring to give 2,4,6- trinitrophenol (old name: picric acid). 
+
+
+
+
+ASSORTED REACTIONS OF PHENOL 
+Combustion of phenol- Phenol burns in a plentiful supply of oxygen to give carbon dioxide and water. However, for compounds containing benzene rings, combustion is hardly ever complete, especially if they are burnt in air. The high proportion of carbon in phenol means that you need a very high proportion of oxygen to phenol to get complete combustion. As a general rule, the hydrogen in a molecule tends to get what oxygen is available first, leaving the carbon to form carbon itself, or carbon monoxide, if there isn't enough oxygen to go round. Phenol tends to burn in air with an extremely smoky flame - full of carbon particles. 
+Esterification of phenol-unlike alcohols, phenol reacts so slowly with carboxylic acids that you normally react it with acyl chlorides (acid chlorides) or acid anhydrides instead. 
+The reaction with iron(III) chloride solution- Iron(III) chloride is sometimes known as ferric chloride. Iron(III) ions form strongly coloured complexes with several organic compounds including phenol. The colour of the complexes vary from compound to compound. The reaction with iron(III) chloride solution can be used as a test for phenol. If you add a crystal of phenol to iron(III) chloride solution, you get an intense violet-purple solution formed.
+
+
+
+
+
+
+
+
+
+
+
+
+16. Oxidized derivatives of alcohols. Biologically important aldehydes, ketones and carboxylic acids. 
+The oxidation of alcohols is an important reaction in organic chemistry. Primary alcohols can be oxidized to form aldehydes and carboxylic acids; secondary alcohols can be oxidized to give ketones. Tertiary alcohols, in contrast, cannot be oxidized without breaking the molecule's C–C bonds.
+
+
+
+
+
+
+  
+
+
+
+
+
+The difference between an aldehyde and ketone is the presence or absence of a hydrogen atom attached to the carbon-oxygen double bond.
+
+
+  
+      
+
+
+In an aldehyde, there is the PRESENCE of a hydrogen atom:
+• This makes it easier for them to be oxidised by different oxidizing agents.
+• They are strong REDUCING agents.
+NOTE: Depending on if the conditions are ACIDIC or ALKALINE, aldehydes are oxidized into different products. 
+Under ACIDIC conditions, the aldehyde is oxidized to a CARBOXYLIC ACID.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Under ALKALINE conditions, the aldehyde is oxidized to a SALT.
+
+
+  
+
+
+
+In a ketone, there is the ABSENCE of a hydrogen atom:
+• Ketones are resistant to oxidation, therefore not oxidized by oxidizing agents.
+• They are strong OXIDIZING agents, they break carbon-carbon bonds.
+
+
+One can distinguish between an aldehyde and ketone by different oxidizing agents as discussed below: 
+Tollen’s reagent (SILVER MIRROR TEST)
+Tollen’s reagent contains diamminesilver ion, which is made from silver nitrate solution.
+A drop of sodium hydroxide solution is added to give a precipitate of silver oxide and then dilute ammonia solution is added to redissolve the precipitate. A few drops of Tollens’ reagent is added to the aldehyde or ketone and warmed gently in a hot water bath. 
+Ketone: No change in the colorless solution. 
+Aldehyde: The colourless solution produces a grey precipitate of silver, or a silver mirror on the test tube. Aldehydes reduce the diamminesilver ion to metallic silver, as the solution is alkaline, the aldehyde itself is oxidized to a salt of the corresponding carboxylic acid.
+
+
+  
+
+
+
+
+
+Tollens’ test, also known as silver-mirror test, is a qualitative laboratory test used to distinguish between an aldehyde and a ketone. It exploits the fact that aldehydes are readily oxidized (see oxidation), whereas ketones are not. Tollens’ test uses a reagent known as Tollens’ reagent, which is a colorless, basic, aqueous solution containing silver ions coordinated to ammonia [Ag(NH3)2+]. It is prepared using a 2 step procedure:
+
+
+STEP 1: Aqueous silver nitrate is mixed with aqueous sodium hydroxide.
+
+
+  
+
+
+
+
+
+STEP 2: Aqueous ammonia is added dropwise until the precipitated silver oxide completely dissolves. 
+  
+
+  
+
+NOTE: Tollens’ reagent oxidizes an aldehyde into the corresponding carboxylic acid.
+
+
+Fehling's solution can be used to distinguish aldehyde vs ketone functional groups. The compound to be tested is added to the Fehling's solution and the mixture is heated. Aldehydes are oxidized, giving a positive result, but ketones do not react, unless they are α-hydroxy ketones.
+
+
+EXAMPLES:
+   * Formaldehyde (made predominantly by the oxidation of methanol) is a gas but is generally handled as a 37 percent solution in water, called formalin. It is used in tanning, preserving, and embalming and as a germicide, fungicide, and insecticide for plants and vegetables, but its largest application is in the production of certain polymeric materials.
+   * Ketones are produced on massive scales in industry as solvents, polymer precursors, and pharmaceuticals. In terms of scale, the most important ketones are acetone, methylethyl ketone, and cyclohexanone.
+   * Many carboxylic acids are present in the foods and drinks we ingest, like malic acid (found in apples), tartaric acid (grape juice), oxalic acid (spinach and some parts of the rhubarb plant), and lactic acid (sour milk). Two other simple carboxylic acids are propionic acid and butyric acid. Propionic acid is partly responsible for the flavor and odor of Swiss cheese. Butyric acid is responsible not only for the smell of rancid butter, but also contributes to the odor of sweat. Lactic acid is generated in muscles of the body as the individual cells metabolize sugar and do work. A buildup of lactic acid, caused by overexertion, is responsible for the fatigue one feels in the muscles by such short-term use.
+
+
+
+
+
+
+17. Amines and imines. Their types and most important chemical reactions.
+
+
+The easiest way to think of amines is as near relatives of ammonia, NH3. 
+In amines, the hydrogen atoms in the ammonia have been replaced one at a time by hydrocarbon groups. 
+
+
+The different kinds of amines 
+Amines fall into different classes depending on how many of the hydrogen atoms are replaced. 
+Primary amines In primary amines, only one of the hydrogen atoms in the ammonia molecule has been replaced. That means that the formula of the primary amine will be RNH2 where "R" is an alkyl group. 
+Secondary amines In a secondary amine, two of the hydrogens in an ammonia molecule have been replaced by hydrocarbon groups. At this level, you are only likely to come across simple ones where both of the hydrocarbon groups are alkyl groups and both are the same. 
+Tertiary amines In a tertiary amine, all of the hydrogens in an ammonia molecule have been replaced by hydrocarbon groups. Again, you are only likely to come across simple ones where all three of the hydrocarbon groups are alkyl groups and all three are the same.
+
+
+Boiling points:
+The reason for the higher boiling points of the primary amines is that they can form hydrogen bonds with each other as well as van der Waals dispersion forces and dipoledipole interactions. The boiling points of the primary amines increase as you increase chain length because of the greater amount of van der Waals dispersion forces between the bigger molecules.
+The boiling point of the secondary amine is a little lower than the corresponding primary amine with the same number of carbon atoms. Secondary amines still form hydrogen bonds, but having the nitrogen atom in the middle of the chain rather than at the end makes the permanent dipole on the molecule slightly less. The lower boiling point is due to the lower dipole-dipole attractions in the dimethylamine compared with ethylamine.
+In a tertiary amine there aren't any hydrogen atoms attached directly to the nitrogen. That means that hydrogen bonding between tertiary amine molecules is impossible. That's why the boiling point is much lower.
+
+
+The small amines of all types are very soluble in water. In fact, the ones that would normally be found as gases at room temperature are normally sold as solutions in water - in much the same way that ammonia is usually supplied as ammonia solution. All of the amines can form hydrogen bonds with water - even the tertiary ones. 
+The very small amines like methylamine and ethylamine smell very similar to ammonia - although if you compared them side by side, the amine smells are slightly more complex. As the amines get bigger, they tend to smell more "fishy", or they smell of decay.
+
+
+The reactions of amines with acids
+These are most easily considered using the Bronsted-Lowry theory of acids and bases - the base is a hydrogen ion acceptor. The nitrogen lone pair behaves exactly the same. The fact that one (or more) of the hydrogens in the ammonia has been replaced by a hydrocarbon group makes no difference. 
+For example, with ethylamine: If the reaction is done in solution, the amine takes a hydrogen ion from a hydroxonium ion and forms an ethylammonium ion.
+
+
+The reactions of amines with water
+The amine still contains the nitrogen lone pair, and does exactly the same thing. For example, with ethylamine, you get ethylammonium ions and hydroxide ions produced. There is, however, a difference in the position of equilibrium. Amines are usually stronger bases than ammonia. (There are exceptions to this, though - particularly if the amine group is attached directly to a benzene ring.)
+
+
+A nucleophile is something which is attracted to, and then attacks, a positive or slightly positive part of another molecule or ion. All amines contain an active lone pair of electrons on the very electronegative nitrogen atom. It is these electrons which are attracted to positive parts of other molecules or ions, therefore amines act as nucleophiles.
+
+
+
+
+Imines are the nitrogen analogues of aldehydes and ketones, containing a C=N bond instead of a C=O bond. They are formed through the dehydration reaction of an aldehyde or ketone with an amine. Imines derived from aldehydes are sometimes called aldimines, imines derived from ketones are sometimes called ketimines.
+
+
+  
+
+
+
+That’s an imine on the left. To its right are its chemical cousins: oximes and hydrazones. What they all have in common is a C=N double bond, and they are all formed by the same process. 
+Let’s talk about how that C=N is made.
+The reaction starts by stirring an aldehyde or ketone in solution with a little bit of acid. You might recall that acid makes carbonyl carbons more electrophilic – it binds to the carbonyl oxygen and weakens the C=O bond. Upon addition of an amine, the carbonyl carbon (an electrophile) is attacked by the amine nitrogen (a nucleophile) and there is a 1,2-addition. The next step is a proton transfer. This serves two purposes. First of all, the OH is protonated to give OH2(+), which is a tremendously better leaving group. Secondly, proton transfer frees up the lone pair on the amine nitrogen.
+ mechanism for imine formation from aldehyde or ketone 
+
+
+
+
+
+
+
+
+
+Finding itself free again, the amine lone pair now descends upon the neighboring carbon, expelling the OH2(+) as a neutral water molecule. The final step is a simple deprotonation of the resulting positively charged imine (iminium, we call it – most positively charged organic molecules end with -ium), resulting in our neutral product, the imine. In practice, this reaction is usually run with a dessicant like magnesium sulfate to soak up the water that is formed along the way. That’s Le Chatelier’s principle at work again: you’ll notice that the reaction is an equilibrium.  If you take your imine and then dissolve it water,  you can get back the original aldehyde/ketone plus the amine.
+A primary imine in which C is attached to both a hydrocarbyl and a H is called a primary aldimine; a secondary imine with such groups is called a secondary aldimine. A primary imine in which C is attached to two hydrocarbyls is called a primary ketimine; a secondary imine with such groups is called a secondary ketimine
+  
+
+
+Primary aldimine 
+  
+Secondary aldimine
+ 
+  
+Primary ketimine
+ 
+  
+Secondary ketimine
+ 
+  
+Aziridine and its derivatives are sometimes referred to as imines.
+
+
+
+
+
+
+
+
+18. Condensed bonds in organic compounds (ether, ester, amide, anhydride, Schiff base). Special roles of phosphate-esters in biology. 
+Condensed structural formulas show the order of atoms like a structural formula but are written in a single line to save space and make it more convenient and faster to write out. Condensed structural formulas are also helpful when showing that a group of atoms is connected to a single atom in a compound.
+
+
+In an ether functional group, a central oxygen is bonded to two carbons. Below are the line and Lewis structures of diethyl ether, a common laboratory solvent and also one of the first medical anaesthesia agents.  
+
+
+
+
+
+
+
+
+
+
+Esters are derived from carboxylic acids. A carboxylic acid contains the -COOH group, and in an ester the hydrogen in this group is replaced by a hydrocarbon group of some kind. This could be an alkyl group like methyl or ethyl, or one containing a benzene ring like phenyl. 
+The most commonly discussed ester is ethyl ethanoate. In this case, the hydrogen in the -COOH group has been replaced by an ethyl group. The formula for ethyl ethanoate is: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice that the ester is named the opposite way around from the way the formula is written. The "ethanoate" bit comes from ethanoic acid. The "ethyl" bit comes from the ethyl group on the end. 
+
+
+If a carbonyl carbon is bonded on one side to a carbon (or hydrogen) and on the other side to a heteroatom (in organic chemistry, this term generally refers to oxygen, nitrogen, sulfur, or one of the halogens), the functional group is considered to be one of the ‘carboxylic acid derivatives’, a designation that describes a grouping of several functional groups. The eponymous member of this grouping is the carboxylic acid functional group, in which the carbonyl is bonded to a hydroxyl (OH) group.
+  
+
+
+
+In amides, the carbonyl carbon is bonded to a nitrogen. The nitrogen in an amide can be bonded either to hydrogens, to carbons, or to both. Another way of thinking of an amide is that it is a carbonyl bonded to an amine.
+  
+
+In esters, the carbonyl carbon is bonded to an oxygen which is itself bonded to another carbon. Another way of thinking of an ester is that it is a carbonyl bonded to an alcohol. Thioesters are similar to esters, except a sulfur is in place of the oxygen.  
+
+
+
+
+
+
+
+
+
+
+
+
+In an acid anhydride, there are two carbonyl carbons with an oxygen in between. An acid anhydride is formed from combination of two carboxylic acids with the loss of water (anhydride).
+  
+
+
+
+
+
+
+
+
+
+
+
+Molecules with carbon-nitrogen double bonds are called imines, or Schiff bases.  
+
+
+
+
+Phosphate esters are present in every plant and animal cell. They are biochemical intermediates in the transformation of food into usable energy. The bonds between phosphate units in adenosine triphosphate (ATP) are called phosphoanhydride bonds. These are high-energy bonds that store energy from the metabolism of foods. Hydrolysis of ATP releases energy as it is needed for biochemical processes (for instance, for muscle contraction). Phosphate esters are also important structural constituents of phospholipids and nucleic acids.
+19. Sulfur atoms in bioorganic molecules (thiols, thioesters, disulfides). 
+A thiol is a compound which contains an SH functional group. The -SH group itself is called a mercapto group. A disulfide is a compound containing an -S-S- linkage. (Organic) sulfides have the structure R-S-R′, and are therefore the sulfur analogues of ethers.
+
+
+Oxygen assumes only two oxidation states in its organic compounds (–1 in peroxides and –2 in other compounds). Sulfur, on the other hand, is found in oxidation states ranging from –2 to +6, as shown in the following table (some simple inorganic compounds are displayed in orange).
+
+
+  
+
+Thiols, which are also called mercaptans, are analogous to alcohols. They are named in a similar fashion as alcohols except the suffix -thiol is used in place of -ol. By itself the -SH group is called a mercapto group.
+  
+
+Thiols are usually prepared by using the hydrosulfide anion (-SH) as a neucleophile in an SN2 reaction with alkyl halides.
+  
+
+Oxidation of thiols and other sulfur compounds changes the oxidation state of sulfur rather than carbon. We see some representative sulfur oxidations in the following examples. In the first case, mild oxidation converts thiols to disufides. An equivalent oxidation of alcohols to peroxides is not normally observed. The reasons for this different behavior are not hard to identify. The S–S single bond is nearly twice as strong as the O–O bond in peroxides, and the O–H bond is more than 25 kcal/mole stronger than an S–H bond. Thus, thermodynamics favors disulfide formation over peroxide.
+  
+
+Disulfide (sulfur-sulfur) linkages between two cysteine residues are an integral component of the three-dimensional structure of many proteins. The interconversion between thiols and disulfide groups is a redox reaction: the thiol is the reduced state, and the disulfide is the oxidized state.
+ image150.png 
+
+Notice that in the oxidized (disulfide) state, each sulfur atom has lost a bond to hydrogen and gained a bond to a sulfur - this is why the disulfide state is considered to be oxidized relative to the thiol state.
+The redox agent that mediates the formation and degradation of disulfide bridges in most proteins is glutathione. Recall that the important functional group in glutathione is the thiol, highlighted in blue in the figure below. In its reduced (free thiol) form, glutathione is abbreviated 'GSH'.
+ image152.png 
+
+In its oxidized form, glutathione exists as a dimer of two molecules linked by a disulfide group, and is abbreviated 'GSSG'.
+
+
+Thioesters are esters in which the linking oxygen atom is replaced by sulfur. They are the product of dehydration reaction between a carboxylic acid derivative and a thiol. Thioesters are common intermediates in biochemistry, for example, in acetyl-CoA, malonyl-CoA, acetoacetyl-CoA, and propionyl-CoA. Thioesters are intermediates in several key processes in which ATP is either used or regenerated. Thioesters are involved in the synthesis of all biological esters, including those found in lipids. They also participate in the synthesis of a number of other cellular components, including peptides, fatty acids, sterols, terpenes, and porphyrins. 
+
+
+
+
+
+
+Sulphur and Oxygen
+Sulfur burns in oxygen to form sulfur dioxide. Sulfur dioxide is a poisonous gas. It is sometimes used as a preservative for dried fruits. The fact that it is toxic means that very small quantities of it can be added to food to preserve it. In very small quantities SO2 does not permanently harm a large organism such as a human being, but bacteria cannot survive when it is present.
+Sulfur + Oxygen → Sulfur dioxide
+NOTE: Both Carbon and Sulfur form dioxides with oxygen, this is NOT true for all non-metals.
+
+
+Atoms of group 7 elements all have 7 electrons in their outer shell, they are referred to as the HALOGENS, they are reactive non-metals!
+Non metals (group 7 elements) with Hydrogen:
+The halogens react with hydrogen to produce compounds called hydrogen halides.
+For example, chlorine reacts with hydrogen:
+Hydrogen + chlorine → hydrogen chloride
+H2(g) + Cl2(g) → 2HCl(g)
+The hydrogen halides are gases at room temperature.
+They dissolve in water to produce acidic solutions. Hydrogen chloride dissolves in water to produce hydrochloric acid, HCl(aq).
+
+
+  
+
+
+
+
+
+Non metals (group 7 elements) with Metals:
+The halogens react with metals to produce salts .
+For example, chlorine reacts with sodium:
+Sodium + chlorine → sodium chloride
+2Na(s) + Cl2(g) → 2NaCl(s)
+Sodium and chlorine react vigorously when heated, giving an orange flame and clouds of white sodium chloride.
+
+
+  
+
+The halogens become less reactive going down group 7.
+20. Structure and biological functions of steroids (i.e., cholesterol and its derivatives). 
+Unlike phospholipids and fats, steroids have a fused ring structure. Although they do not resemble the other lipids, they are grouped with them because they are also hydrophobic and insoluble in water. All steroids have four linked carbon rings, and many of them, like cholesterol, have a short tail. Many steroids also have the –OH functional group, and these steroids are classified as alcohols called sterols.
+
+
+  
+
+
+
+Cholesterol is the most common steroid and is mainly synthesized in the liver; it is the precursor to vitamin D. Cholesterol is also a precursor to many important steroid hormones like estrogen, testosterone, and progesterone, which are secreted by the gonads and endocrine glands. Therefore, steroids play very important roles in the body’s reproductive system. Cholesterol also plays a role in synthesizing the steroid hormones aldosterone, which is used for osmoregulation, and cortisol, which plays a role in metabolism.
+Cholesterol is also the precursor to bile salts, which help in the emulsification of fats and their absorption by cells. It is a component of the plasma membrane of animal cells and the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition; and it is involved in cell-to-cell communication. Thus, steroids also play an important role in the structure and function of membranes.
+It has also been discovered that steroids can be active in the brain where they affect the nervous system, these neurosteroids alter electrical activity in the brain. They can either activate or tone down receptors that communicate messages from neurotransmitters. Since these neurosteroids can tone down receptors and decrease brain activity, steroids are often used in anesthetic medicines.
+
+
+
+
+21. Monosaccharides and disaccharides: definition, classification, most important representatives. 
+
+
+Monosaccharides (mono- = “one”; sacchar- = “sweet”) are simple sugars . In monosaccharides, the number of carbons usually ranges from three to seven. If the sugar has an aldehyde group (the functional group with the structure R-CHO), it is known as an aldose, and if it has a ketone group (the functional group with the structure RC(=O)R’), it is known as a ketose. Depending on the number of carbons in the sugar, they also may be known as trioses (three carbons), pentoses (five carbons), and or hexoses (six carbons). Monosaccharides can exist as a linear chain or as ring-shaped molecules; in aqueous solutions they are usually found in ring forms.
+  
+
+
+
+
+
+Monosaccharides
+Monosaccharides are classified based on the position of their carbonyl group and the number of carbons in the backbone. Aldoses have a carbonyl group (indicated in green) at the end of the carbon chain, and ketoses have a carbonyl group in the middle of the carbon chain. Trioses, pentoses, and hexoses have three, five, and six carbon backbones, respectively.
+Glucose (C6H12O6) is a common monosaccharide and an important source of energy. During cellular respiration, energy is released from glucose and that energy is used to help make adenosine triphosphate (ATP). Plants synthesize glucose using carbon dioxide and water, and glucose, in turn, is used for energy requirements for the plant.
+Galactose (a milk sugar) and fructose (found in fruit) are other common monosaccharides. Although glucose, galactose, and fructose all have the same chemical formula (C6H12O6), they differ structurally and stereochemically. This makes them different molecules despite sharing the same atoms in the same proportions, and they are all isomers of one another, or isomeric monosaccharides. Glucose and galactose are aldoses, and fructose is a ketose.
+Disaccharides
+Disaccharides (di- = “two”) form when two monosaccharides undergo a dehydration reaction (also known as a condensation reaction or dehydration synthesis). During this process, the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide, releasing a molecule of water and forming a covalent bond. A covalent bond formed between a carbohydrate molecule and another molecule (in this case, between two monosaccharides) is known as a glycosidic bond . Glycosidic bonds (also called glycosidic linkages) can be of the alpha or the beta type.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disaccharides
+Sucrose is formed when a monomer of glucose and a monomer of fructose are joined in a dehydration reaction to form a glycosidic bond. In the process, a water molecule is lost. By convention, the carbon atoms in a monosaccharide are numbered from the terminal carbon closest to the carbonyl group. In sucrose, a glycosidic linkage is formed between carbon 1 in glucose and carbon 2 in fructose.
+Common disaccharides include lactose, maltose, and sucrose. Lactose is a disaccharide consisting of the monomers glucose and galactose. It is found naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is composed of the monomers glucose and fructose.
+Polysaccharides
+A long chain of monosaccharides linked by glycosidic bonds is known as a polysaccharide (poly- = “many”). The chain may be branched or unbranched, and it may contain different types of monosaccharides. Starch, glycogen, cellulose, and chitin are primary examples of polysaccharides.
+Plants are able to synthesize glucose, and the excess glucose is stored as starch in different plant parts, including roots and seeds. Starch is the stored form of sugars in plants and is made up of glucose monomers that are joined by α1-4 or 1-6 glycosidic bonds. The starch in the seeds provides food for the embryo as it germinates while the starch that is consumed by humans is broken down by enzymes into smaller molecules, such as maltose and glucose. The cells can then absorb the glucose.
+Glycogen is the storage form of glucose in humans and other vertebrates. It is made up of monomers of glucose. Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. Whenever blood glucose levels decrease, glycogen is broken down to release glucose in a process known as glycogenolysis.
+Cellulose is the most abundant natural biopolymer. The cell wall of plants is mostly made of cellulose and provides structural support to the cell. Cellulose is made up of glucose monomers that are linked by β 1-4 glycosidic bonds . Every other glucose monomer in cellulose is flipped over, and the monomers are packed tightly as extended long chains. This gives cellulose its rigidity and high tensile strength—which is so important to plant cells.
+  
+
+In cellulose, glucose monomers are linked in unbranched chains by β 1-4 glycosidic linkages. Because of the way the glucose subunits are joined, every glucose monomer is flipped relative to the next one resulting in a linear, fibrous structure.
+Carbohydrates serve various functions in different animals. Arthropods have an outer skeleton, the exoskeleton, which protects their internal body parts. This exoskeleton is made of chitin, which is a polysaccharide-containing nitrogen. It is made of repeating units of N-acetyl-β-d-glucosamine, a modified sugar. Chitin is also a major component of fungal cell walls.
+
+
+
+
+Fructose: Fructose is a STRUCTURAL isomer of glucose, meaning it has the same chemical formula but a completely different three-dimensional structure. The main difference is that fructose is a ketone in its linear form while glucose is an aldehyde. Through an intramolecular addition reaction with the C-5 OH group, glucose forms a six-membered ring while fructose forms a five-membered ring. Sources of fructose include fruit, honey and high-fructose corn syrup.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glucose
+	Fructose
+	Glucose is eaten, absorbed into the bloodstream and is broken down in the liver.
+
+
+	Fructose is eaten and absorbed but releases its energy slower than glucose
+
+
+	The breaking down process of glucose REQUIRES insulin.
+	The breaking down process of fructose does NOT require insulin
+	Not as sweet
+	Much sweeter
+	Glucose is an ALDOHEXOSE (its carbon is attached to a hydrogen atom by a single bond and an oxygen atom by a double bond)
+	Fructose is a KETOHEXOSE ( its carbon is attached ONLY to an oxygen atom by a single bond)
+	Consists of a 6 membered ring
+	Consists of a 5 membered ring
+	
+
+NOTE: Monosaccharides are linked by GLYCOSIDIC linkages/bonds to form Disaccharides Galactose + Glucose : Lactose 
+Glucose + glucose : Maltose 
+Glucose + Fructose: Sucrose
+22. Proteinogenic amino acids: classification, examples, peptide bond.
+Proteinogenic refers to that which produces proteins or is involved in protein production, as are the 20 amino acids encoded by messenger RNA.
+Amino acids are the monomers that make up proteins. Each amino acid has the same fundamental structure , which consists of a central carbon atom, also known as the alpha (α) carbon, bonded to an amino group (NH2), a carboxyl group (COOH), and to a hydrogen atom. In the aqueous environment of the cell, both the amino group and the carboxyl group are ionized under physiological conditions, and so have the structures -NH3+ and -COO–, respectively. Every amino acid also has another atom or group of atoms bonded to the central atom known as the R group. This R group, or side chain, gives each amino acid proteins specific characteristics, including size, polarity, and pH.
+  
+
+Amino acid structure:
+Amino acids have a central asymmetric carbon to which an amino group, a carboxyl group, a hydrogen atom, and a side chain (R group) are attached. This amino acid is unionized, but if it were placed in water at pH 7, its amino group would pick up another hydrogen and a positive charge, and the hydroxyl in its carboxyl group would lose a hydrogen and gain a negative charge.
+Types of Amino Acids
+The name “amino acid” is derived from the amino group and carboxyl-acid-group in their basic structure. There are 21 amino acids present in proteins, each with a specific R group or side chain. Ten of these are considered essential amino acids in humans because the human body cannot produce them and they must be obtained from the diet. All organisms have different essential amino acids based on their physiology.
+  
+Types of amino acids:
+There are 21 common amino acids commonly found in proteins, each with a different R group (variant group) that determines its chemical nature. The 21st amino acid, not shown here, is selenocysteine, with an R group of -CH2-SeH.
+
+
+The chemical composition of the side chain determines the characteristics of the amino acid. Amino acids such as valine, methionine, and alanine are nonpolar (hydrophobic), while amino acids such as serine, threonine, and cysteine are polar (hydrophilic). The side chains of lysine and arginine are positively charged so these amino acids are also known as basic (high pH) amino acids. Proline is an exception to the standard structure of an animo acid because its R group is linked to the amino group, forming a ring-like structure.
+Amino acids are represented by a single upper case letter or a three-letter abbreviation. For example, valine is known by the letter V or the three-letter symbol val.
+
+
+
+
+Peptide bonds:
+The sequence and the number of amino acids ultimately determine the protein’s shape, size, and function. Each amino acid is attached to another amino acid by a covalent bond, known as a peptide bond. When two amino acids are covalently attached by a peptide bond, the carboxyl group of one amino acid and the amino group of the incoming amino acid combine and release a molecule of water. Any reaction that combines two monomers in a reaction that generates H2O as one of the products is known as a dehydration reaction, so peptide bond formation is an example of a dehydration reaction.
+  
+
+The resulting chain of amino acids is called a polypeptide chain. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal. When reading or reporting the amino acid sequence of a protein or polypeptide, the convention is to use the N-to-C direction. That is, the first amino acid in the sequence is assumed to the be one at the N terminal and the last amino acid is assumed to be the one at the C terminal.
+Although the terms polypeptide and protein are sometimes used interchangeably, a polypeptide is technically any polymer of amino acids, whereas the term protein is used for a polypeptide or polypeptides that have folded properly, combined with any additional components needed for proper functioning, and is now functional.
+
+
+
+
+
+
+23. Nucleotides and nucleic acids: building blocks.
+
+
+The repeating, or monomer, units that are linked together to form nucleic acids are known as nucleotides. The deoxyribonucleic acid (DNA) of a typical mammalian cell contains about 3 × 109 nucleotides. Nucleotides can be further broken down to phosphoric acid (H3PO4), a pentose sugar (a sugar with five carbon atoms), and a nitrogenous base (a base containing nitrogen atoms).
+If the pentose sugar is ribose, the nucleotide is more specifically referred to as a ribonucleotide, and the resulting nucleic acid is ribonucleic acid (RNA). If the sugar is 2-deoxyribose, the nucleotide is a deoxyribonucleotide, and the nucleic acid is DNA.
+ RNA, DNA.jpg 
+
+
+
+The nitrogenous bases found in nucleotides are classified as pyrimidines or purines. Pyrimidines are heterocyclic amines with two nitrogen atoms in a six-member ring and include uracil, thymine, and cytosine. Purines are heterocyclic amines consisting of a pyrimidine ring fused to a five-member ring with two nitrogen atoms. Adenine and guanine are the major purines found in nucleic acids.
+ 19.2.jpg 
+
+
+
+The formation of a bond between C1′ of the pentose sugar and N1 of the pyrimidine base or N9 of the purine base joins the pentose sugar to the nitrogenous base. In the formation of this bond, a molecule of water is removed. 
+
+
+Composition
+	DNA
+	RNA
+	purine bases
+	adenine and guanine
+	adenine and guanine
+	pyrimidine bases
+	cytosine and thymine
+	cytosine and uracil
+	pentose sugar
+	2-deoxyribose
+	ribose
+	inorganic acid
+	phosphoric acid (H3PO4)
+	H3PO4
+	
+
+
+
+  
+
+Apart from being the monomer units of DNA and RNA, the nucleotides and some of their derivatives have other functions as well. Adenosine diphosphate (ADP) and adenosine triphosphate (ATP) have a role in cell metabolism. Moreover, a number of coenzymes, including flavin adenine dinucleotide (FAD), nicotinamide adenine dinucleotide (NAD+), and coenzyme A, contain adenine nucleotides as structural components.
+Nucleotides are joined together through the phosphate group of one nucleotide connecting in an ester linkage to the OH group on the third carbon atom of the sugar unit of a second nucleotide. This unit joins to a third nucleotide, and the process is repeated to produce a long nucleic acid chain. The backbone of the chain consists of alternating phosphate and sugar units (2-deoxyribose in DNA and ribose in RNA). The purine and pyrimidine bases branch off this backbone.
+  
+
+Like proteins, nucleic acids have a primary structure that is defined as the sequence of their nucleotides. Unlike proteins, which have 20 different kinds of amino acids, there are only 4 different kinds of nucleotides in nucleic acids. For amino acid sequences in proteins, the convention is to write the amino acids in order starting with the N-terminal amino acid. In writing nucleotide sequences for nucleic acids, the convention is to write the nucleotides (usually using the one-letter abbreviations for the bases) starting with the nucleotide having a free phosphate group, which is known as the 5′ end, and indicate the nucleotides in order. For DNA, a lowercase d is often written in front of the sequence to indicate that the monomers are deoxyribonucleotides. The final nucleotide has a free OH group on the 3′ carbon atom and is called the 3′ end. The sequence of nucleotides in the DNA segment would be written 5′-dG-dT-dA-dC-3′, which is often further abbreviated to dGTAC or just GTAC.
+The rules of base pairing (or nucleotide pairing) are:
+   * A with T: the purine adenine (A) always pairs with the pyrimidine thymine (T)
+   * C with G: the pyrimidine cytosine (C) always pairs with the purine guanine (G)
+This is consistent with there not being enough space (20 Å) for two purines to fit within the helix and too much space for two pyrimidines to get close enough to each other to form hydrogen bonds between them. But why not A with C and G with T? The answer: only with A & T and with C & G are there opportunities to establish hydrogen bonds (shown here as dotted lines) between them (two between A & T; three between C & G). These relationships are often called the rules of Watson-Crick base pairing, named after the two scientists who discovered their structural basis.
+The rules of base pairing tell us that if we can "read" the sequence of nucleotides on one strand of DNA, we can immediately deduce the complementary sequence on the other strand. The rules of base pairing explain the phenomenon that whatever the amount of adenine (A) in the DNA of an organism, the amount of thymine (T) is the same (called Chargaff's rule). Similarly, whatever the amount of guanine (G), the amount of cytosine (C) is the same. The C+G:A+T ratio varies from organism to organism, particularly among the bacteria, but within the limits of the experimental error, A=T and C=G.
+
+
+DNA and RNA polymers are constructed by forming phosphodiester bonds between nucleotides. In this arrangement, a phosphate group acts as a bridge between the 5′ position of one sugar and the 3′ position of the next. This arrangement is called the "sugar-phosphate backbone" of DNA or RNA; the bases hang off to the side.
+In the cell, DNA or RNA polymers are synthesized using nucleoside triphosphate monomers as precursors. During polymer synthesis, two of the phosphate groups of the incoming nucleoside triphosphate are cleaved off, and this provides the energy needed to power the reaction. The remaining phosphate takes its place in the sugar-phosphate backbone of the growing nucleic acid chain. A pyrophosphate molecule (two linked phosphates) is released.
+Just as an arrow has a tip and a tail, DNA or RNA chains have directionality, due to the structure of the sugar. At one end of a chain, a 5′ carbon will be left free. This is known as the 5′ end of the chain. At the other end, the 3′ carbon will be free; this is the 3′ end of the chain. Segments of DNA that are not free at their ends can also be discussed in terms of their 5′ and 3′ ends. This directionality has important consequences. When DNA RNA nucleotides join by linking the 5′ phosphate of one to the 3′ ribose carbon of the next. This linkage is called a phosphodiester bond. replication occurs, it always moves from the 5′ end to the 3′ end, and the incoming triphosphate joins the 3′ end of the chain. Transcription (RNA synthesis from a DNA gene) also moves in this 5′-to-3′ direction. The 5′ end is considered the "upstream" end of the gene, and is the end on which the gene promoter (the transcription initiator) is located.
