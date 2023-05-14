@@ -79,7 +79,7 @@ txt1_chunks = [txt1_list[n:n+N] for n in range(0, len(txt1_list), N)]
 txt2_list = list(filter(lambda x: len(x) > 0, map(lambda x: x.strip(), txt2.split('\n'))))
 txt2_chunks = [txt2_list[n:n+N] for n in range(0, len(txt2_list), N)]
 
-[tts.tts_to_file(text='\n'.join(txt), file_path=f"Medical_chemistry_p{str(i).zfill(2)}.wav") for i, txt in list(enumerate(txt2_chunks))[5:]]
+[tts.tts_to_file(text='\n'.join(txt), file_path=f"Medical_chemistry_p{str(i).zfill(2)}.wav") for i, txt in list(enumerate(txt2_chunks))]
 [tts.tts_to_file(text='\n'.join(txt), file_path=f"Medical_biology_p{str(i).zfill(2)}.wav")   for i, txt in list(enumerate(txt1_chunks))]
 
 # tts.tts_to_file(text=txt1,
